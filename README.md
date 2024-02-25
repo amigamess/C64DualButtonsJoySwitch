@@ -17,7 +17,8 @@ fast UP, like WONDERBOY or GHOST'N & GHOST
 You need a compatible C64 JOY with TWO separated buttons
 BUTTON A and BUTTON B (second button as pin 9 like AMIGA port).
 
-![C64DualButtons](https://github.com/amigamess/C64DualButtonsJoySwitch/assets/82521152/534be148-2167-430f-8298-dbf2261a7ecd)
+![dualButtons](https://github.com/amigamess/C64DualButtonsJoySwitch/assets/82521152/2868d9df-206d-4f0e-8637-5544846cfffe)
+
 
 I provide also PCB via PCBWay: https://www.pcbway.com/project/shareproject/C64_Seccond_Button_Joy_Switch_37b68b7b.html
 
