@@ -19,7 +19,7 @@ BUTTON A and BUTTON B (second button as pin 9 like AMIGA port).
 
 ![C64DualButtons](https://github.com/amigamess/C64DualButtonsJoySwitch/assets/82521152/534be148-2167-430f-8298-dbf2261a7ecd)
 
-I provide also PCB via PCBWay
+I provide also PCB via PCBWay: https://www.pcbway.com/project/shareproject/C64_Seccond_Button_Joy_Switch_37b68b7b.html
 
 ![DualSwitchPCB](https://github.com/amigamess/C64DualButtonsJoySwitch/assets/82521152/30ef6f85-a31b-4d62-8656-b79429ecceef)
 
