@@ -2,7 +2,7 @@
 - 👀 I’m interested in retrocomputing, music, 3D and more...
 - 🌱 I’m currently learning Kicad, FreeCad...
 
-# C64DualButtonsJoySwitch
+# C64 Seccond Button Joy Switch
 Dual Buttons Joy Switch for Commodore 64
 
 C64 JOY SWITCH redirects some PINS from PORT1 to PORT 2 of
